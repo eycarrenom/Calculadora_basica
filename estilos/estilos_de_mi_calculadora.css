@@ -1,0 +1,29 @@
+.titulo_principal{
+    text-align: center;
+    
+}
+
+.button {
+    background-color: rgb(47, 135, 218); /* Azul*/
+    border: none;  /* Borde */
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.reset {
+    background-color: rgb(238, 60, 15); /* Azul*/
+    border: none;  /* Borde */
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
